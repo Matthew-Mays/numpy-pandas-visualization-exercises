@@ -1,0 +1,1 @@
+Repo for storing all my python libraries exercises
